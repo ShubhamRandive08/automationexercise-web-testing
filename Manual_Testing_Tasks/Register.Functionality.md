@@ -22,7 +22,7 @@ Validate that the New User Signup page functions correctly according to specific
 
 ## **4. TEST ENVIRONMENT DETAILS**
 - **Base URL:** https://automationexercise.com
-- **Signup Page URL:** https://automationexercise.com/signup
+- **Signup Page URL:** https://automationexercise.com/login
 - **Browser Compatibility:** Chrome v115+, Firefox v110+, Edge v115+
 - **Screen Resolutions:** 1920x1080, 1366x768, 1536x864, 375x667
 
