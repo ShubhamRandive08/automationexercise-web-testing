@@ -4,7 +4,7 @@
 ##### **Module:** `Login Page Testing`
 ##### **Document ID:** `QA-TASK-AUTOEX-LOGIN-001`
 ##### **Priority:** `High`
-##### **Assigned To:** `[Your Name Here]`
+##### **Assigned To:** `Shubham Randive`
 ##### **Estimated Effort:** `3-4 hours`
 
 ---
